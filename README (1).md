@@ -12,4 +12,4 @@ Landing page for a banking mobile app.
 
 ## Used By
 
-This project's designed template is available on dribble and it is onlu used for the educational purpose. I don't claim it is as my own.
+This project's designed template is available on dribble and it is only used for the educational purpose. I don't claim it is as my own.
